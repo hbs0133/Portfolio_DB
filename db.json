@@ -3,13 +3,14 @@
       {
         "id":1,
         "img":"/static/media/lipsomoon.d36617814ffc19cb22ed.png",
-        "title":"Netflix WebPage",
-        "responsive":false,
-        "date":"2023-07-28",
-        "stack":"React",
-        "info":"React를 활용하여 Netflix 페이지를 구현했습니다.",
-        "keyWord" : "React,리액트,반응형",
-        "tag" : "Netflix"
+        "title":"Lipsomoon",
+        "responsive":true,
+        "date":"2023-08-10",
+        "stack":"HTML,SCSS,JS",
+        "address" : "https://lipsomoon.netlify.app",
+        "info":"팀프로젝트로 개발한 입소문 프로젝트 입니다.",
+        "keyWord" : "반응형",
+        "tag" : "Lipsomoon"
         
       },
       {
@@ -43,6 +44,18 @@
         "info" : "React를 활용하여 TodoList 페이지를 구현했습니다.",
         "keyWord" : "React,리액트,반응형",
         "tag" : "Todo List" 
+      },
+      {
+        "id":5,
+        "img":"/static/media/lipsomoon.d36617814ffc19cb22ed.png",
+        "title":"Netflix WebPage",
+        "responsive":false,
+        "date":"2023-07-28",
+        "stack":"React",
+        "info":"React를 활용하여 Netflix 페이지를 구현했습니다.",
+        "keyWord" : "React,리액트,반응형",
+        "tag" : "Netflix"
+        
       }
   ]
 }
