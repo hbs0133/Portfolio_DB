@@ -28,7 +28,7 @@
       {
         "id":3,
         "img":"/static/media/diary.22e6009329cafda59e93.png",
-        "title":"Diary Page",
+        "title":"Diary",
         "date":"2023-07-25",
         "stack":"React",
         "address" : "https://hwangdiary.netlify.app",
